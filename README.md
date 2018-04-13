@@ -1,6 +1,6 @@
 # vue-crypto
 
-> 前端 AES 加解密的实
+> 前端 AES 加解密的实现
 
 ## 参考文章
 感兴趣的小伙伴可以参考我的这篇文章[前端 crypto-js aes 加解密](https://juejin.im/post/5acf3b0c5188255c620f781b)
